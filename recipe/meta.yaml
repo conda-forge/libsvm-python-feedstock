@@ -22,6 +22,7 @@ requirements:
     - pip
     - python
     - libsvm
+    - setuptools
   run:
     - python
 
